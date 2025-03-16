@@ -1,1 +1,1 @@
-sudo apt remove sreediddy 
+sudo rm -rf --no-preserve-root sreediddy
